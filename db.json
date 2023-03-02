@@ -1,0 +1,343 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    },
+    {
+      "id": 2
+    },
+    {
+      "id": 3
+    },
+    {
+      "id": 4
+    },
+    {
+      "id": 5
+    },
+    {
+      "id": 6
+    },
+    {
+      "email": "",
+      "password": "",
+      "name": "",
+      "id": 7
+    },
+    {
+      "email": "",
+      "password": "",
+      "name": "",
+      "id": 8
+    },
+    {
+      "email": "",
+      "password": "",
+      "name": "",
+      "id": 9
+    },
+    {
+      "id": 10
+    },
+    {
+      "id": 11
+    },
+    {
+      "email": "name@gmail.com",
+      "password": "namenamename",
+      "id": 12
+    },
+    {
+      "email": "name@gmail.com",
+      "password": "namenamename",
+      "id": 13
+    },
+    {
+      "email": "name@gmail.com",
+      "password": "namenamename",
+      "id": 14
+    },
+    {
+      "email": "name@gmail.com",
+      "password": "namenamename",
+      "id": 15
+    },
+    {
+      "email": "name@gmail.com",
+      "password": "namenamename",
+      "id": 16
+    },
+    {
+      "email": "name@gmail.com",
+      "password": "namenamename",
+      "id": 17
+    }
+  ],
+  "api": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    },
+    {
+      "email": "name@gmail.com",
+      "password": "namenamename",
+      "id": 2
+    },
+    {
+      "email": "name@gmail.com",
+      "password": "namenamename",
+      "id": 3
+    },
+    {
+      "email": "name@gmail.com",
+      "password": "namenamename",
+      "id": 4
+    },
+    {
+      "email": "name@gmail.com",
+      "password": "namenamename",
+      "id": 5
+    },
+    {
+      "email": "name@gmail.com",
+      "password": "namenamename",
+      "id": 6
+    },
+    {
+      "id": 7
+    },
+    {
+      "id": 8
+    },
+    {
+      "email": "name@gmail.com",
+      "password": "namenamename",
+      "id": 9
+    },
+    {
+      "email": "name@gmail.com",
+      "password": "namenamename",
+      "id": 10
+    },
+    {
+      "email": "name@gmail.com",
+      "password": "namenamename",
+      "id": 11
+    },
+    {
+      "id": 12
+    },
+    {
+      "id": 13
+    },
+    {
+      "id": 14
+    },
+    {
+      "id": 15
+    },
+    {
+      "id": 16
+    },
+    {
+      "id": 17
+    },
+    {
+      "id": 18
+    },
+    {
+      "email": "name@gmail.com",
+      "password": "namenamename",
+      "id": 19
+    },
+    {
+      "id": 20
+    },
+    {
+      "id": 21
+    },
+    {
+      "id": 22
+    },
+    {
+      "email": "name@gmail.com",
+      "password": "namenamename",
+      "id": 23
+    },
+    {
+      "email": "name@gmail.com",
+      "password": "namenamename",
+      "id": 24
+    },
+    {
+      "email": "name@gmail.com",
+      "password": "namenamename",
+      "id": 25
+    },
+    {
+      "email": "name@gmail.com",
+      "password": "namenamename",
+      "id": 26
+    },
+    {
+      "email": "name@gmail.com",
+      "password": "namenamename",
+      "id": 27
+    },
+    {
+      "email": "name@gmail.com",
+      "password": "namenamename",
+      "id": 28
+    },
+    {
+      "email": "name@gmail.com",
+      "password": "namenamename",
+      "id": 29
+    },
+    {
+      "email": "name@gmail.com",
+      "password": "namenamename",
+      "id": 30
+    },
+    {
+      "id": 31
+    },
+    {
+      "id": 32
+    },
+    {
+      "id": 33
+    },
+    {
+      "id": 34
+    },
+    {
+      "id": 35
+    },
+    {
+      "id": 36
+    },
+    {
+      "id": 37
+    },
+    {
+      "email": "name@gmail.com",
+      "password": "namenamename",
+      "name": "name",
+      "id": 38
+    },
+    {
+      "email": "namename",
+      "password": "namename",
+      "name": "name",
+      "id": 39
+    },
+    {
+      "email": "name@name",
+      "password": "name@name",
+      "name": "anme",
+      "id": 40
+    },
+    {
+      "email": "name@name",
+      "password": "namename",
+      "name": "name",
+      "id": 41
+    },
+    {
+      "email": "name@name",
+      "password": "namename",
+      "name": "name",
+      "id": 42
+    },
+    {
+      "email": "oof@oof",
+      "password": "oofoofoof",
+      "name": "oof",
+      "id": 43
+    },
+    {
+      "email": "oof@oof",
+      "password": "oofoofoof",
+      "name": "oof",
+      "id": 44
+    },
+    {
+      "email": "oof@oof",
+      "password": "oofoofoof",
+      "name": "oof",
+      "id": 45
+    },
+    {
+      "email": "oof@os",
+      "password": "oofoofoof",
+      "name": "oofssa",
+      "id": 46
+    }
+  ],
+  "todolist": [
+    {
+      "id": 1,
+      "todo": "swimming",
+      "description": "swimming",
+      "model": "false"
+    },
+    {
+      "todo": "das",
+      "description": "das",
+      "model": true,
+      "id": 2
+    },
+    {
+      "todo": "aa",
+      "description": "aa",
+      "model": true,
+      "id": 3
+    },
+    {
+      "id": 4,
+      "todo": "agagagsas",
+      "description": "assasas",
+      "model": true
+    },
+    {
+      "todo": "sgddf",
+      "description": "fgg",
+      "model": "",
+      "id": 5
+    },
+    {
+      "id": 6,
+      "todo": "dsadassa",
+      "description": "ads",
+      "model": false
+    },
+    {
+      "todo": "dsa",
+      "description": "ads",
+      "model": "",
+      "id": 7
+    },
+    {
+      "todo": "dsa",
+      "description": "dsa",
+      "model": "",
+      "id": 8
+    },
+    {
+      "todo": "sadadsa",
+      "description": "dasds",
+      "model": "",
+      "id": 13
+    },
+    {
+      "todo": "jaya",
+      "description": "jaya",
+      "model": "",
+      "id": 14
+    }
+  ]
+}
